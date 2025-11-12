@@ -42,7 +42,7 @@ If you are new to Flutter or this project, here are some resources to help you g
 
 ```bash
 # Clone this repository
-   git clone https://github.com/<your-username>/meal_appp.git
+   git clone https://github.com/<your-username>/meal_app.git
 
 # Navigate into project folder
 cd meal_app
